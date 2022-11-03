@@ -1,1 +1,1 @@
-# University-Chat-Bot
+# Student-Chatbot
